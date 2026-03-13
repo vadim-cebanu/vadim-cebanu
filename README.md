@@ -27,7 +27,7 @@ const vadim = {
   role: "Frontend Developer & UI Designer",
   location: "Germany",
   currentFocus: "Building beautiful, performant UIs",
-  philosophy: "Every pixel has a purpose",
+  languages: ["🇷🇴 Romanian", "🇷🇺 Russian", "🇩🇪 German", "🇬🇧 English"],
   
   skills: {
     frontend:  ["React", "Next.js", "TypeScript"],
