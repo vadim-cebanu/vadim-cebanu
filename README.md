@@ -53,6 +53,10 @@ const vadim = {
 <img src="assets/icons/type-logo.png" width="48" title="TypeScript"/>
 <img src="assets/icons/vue-logo.png" width="48" title="Vue.js"/>
 <img src="assets/icons/angular-logo.png" width="48" title="Angular"/>
+<img src="assets/icons/material.svg" width="48" title="Material Design"/>
+<img src="assets/icons/figma.svg" width="48" title="Figma"/>
+
+
 
 <br/><br/>
 
@@ -64,6 +68,8 @@ const vadim = {
 <img src="assets/icons/git-logo.png" width="48" title="Git"/>
 <img src="assets/icons/api-logo.png" width="48" title="REST API"/>
 <img src="assets/icons/scrum-logo.png" width="48" title="Scrum"/>
+<img src="assets/icons/supabase.svg" width="48" title="Supabase"/>
+
 
 </div>
 
