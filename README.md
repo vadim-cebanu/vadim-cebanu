@@ -35,8 +35,7 @@ const vadim = {
     design:    ["Figma", "UI/UX", "Design Systems"],
     backend:   ["Node.js", "REST APIs"],
   },
-  
-  funFact: "I spend more time perfecting animations\n           than most people spend sleeping 😄"
+
 };
 ```
 
