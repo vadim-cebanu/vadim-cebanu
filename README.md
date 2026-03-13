@@ -25,7 +25,7 @@
 ```typescript
 const vadim = {
   role: "Frontend Developer & UI Designer",
-  location: "🌍 Germany",
+  location: "Germany",
   currentFocus: "Building beautiful, performant UIs",
   philosophy: "Every pixel has a purpose",
   
@@ -46,22 +46,24 @@ const vadim = {
 
 <div align="center">
 
-<!-- Frontend -->
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="assets/icons/html-logo.png" width="48" title="HTML5"/>
+<img src="assets/icons/css-logo.png" width="48" title="CSS3"/>
+<img src="assets/icons/type-logo.png" width="48" title="TypeScript"/>
+<img src="assets/icons/vue-logo.png" width="48" title="Vue.js"/>
+<img src="assets/icons/angular-logo.png" width="48" title="Angular"/>
 
-**Styling & Design**
+<br/><br/>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Backend & Tools**
 
-
+<img src="assets/icons/java-logo.png" width="48" title="Java"/>
+<img src="assets/icons/python-logo.png" width="48" title="Python"/>
+<img src="assets/icons/firebase-logo.png" width="48" title="Firebase"/>
+<img src="assets/icons/git-logo.png" width="48" title="Git"/>
+<img src="assets/icons/api-logo.png" width="48" title="REST API"/>
+<img src="assets/icons/scrum-logo.png" width="48" title="Scrum"/>
 
 </div>
 
@@ -70,13 +72,9 @@ const vadim = {
 ###  GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vadim-cebanu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-cebanu&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vadim-cebanu&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-</div>
 
 ---
 
@@ -85,7 +83,6 @@ const vadim = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadim-cebanu&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
 </div>
-
 
 
 
@@ -103,13 +100,27 @@ const vadim = {
 
 ---
 
-###  Find Me At
+
+
+###  Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### Find Me At
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cebanu-vadim/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://vadimcebanu.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vadimcebanu.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vadim-cebanu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://vadim-cebanu.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadim.cebanu@gmail.com)
 
 </div>
 
@@ -120,6 +131,6 @@ const vadim = {
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-*"Code written with passion, design crafted with heart."* 
+*"Code written with passion, design crafted with heart."* 💜
 
 </div>
