@@ -75,17 +75,6 @@ const vadim = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-cebanu&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
 </div>
 
-
----
-
-###  Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadim-cebanu&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
-</div>
-
-
-
 ---
 
 ###  Favorite Quote
