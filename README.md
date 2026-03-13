@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🎨 About Me
+###  About Me
 
 ```typescript
 const vadim = {
@@ -35,7 +35,8 @@ const vadim = {
     design:    ["Figma", "UI/UX", "Design Systems"],
     backend:   ["Node.js", "REST APIs"],
   },
-
+  
+  funFact: "I spend more time perfecting animations\n           than most people spend sleeping 😄"
 };
 ```
 
@@ -43,7 +44,7 @@ const vadim = {
 
 ---
 
-### 🛠️ Stack & Tools
+###  Stack & Tools
 
 <div align="center">
 
@@ -68,7 +69,7 @@ const vadim = {
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vadim-cebanu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
@@ -81,16 +82,18 @@ const vadim = {
 
 ---
 
-### 🌊 Contribution Graph
+###  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadim-cebanu&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
 </div>
 
+
+
+
 ---
 
-
-### 💡 Favorite Quote
+###  Favorite Quote
 
 <div align="center">
 
@@ -102,7 +105,7 @@ const vadim = {
 
 ---
 
-### 📬 Find Me At
+###  Find Me At
 
 <div align="center">
 
@@ -119,6 +122,6 @@ const vadim = {
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-*"Code written with passion, design crafted with heart."* 💜
+*"Code written with passion, design crafted with heart."* 
 
 </div>
