@@ -24,7 +24,7 @@
 
 ```typescript
 const vadim = {
-  role: "Frontend Developer & UI Designer",
+  role: "Fullstack Developer",
   location: "Germany",
   currentFocus: "Building beautiful, performant UIs",
   languages: ["🇷🇴 Romanian", "🇷🇺 Russian", "🇩🇪 German", "🇬🇧 English"],
@@ -33,7 +33,7 @@ const vadim = {
     frontend:  ["React", "Next.js", "TypeScript"],
     styling:   ["Tailwind CSS", "SASS", "CSS Animations"],
     design:    ["Figma", "UI/UX", "Design Systems"],
-    backend:   ["Node.js", "REST APIs","Python"],
+    backend:   ["Node.js", "REST APIs", "Python", "DRF"],
   },
 };
 ```
