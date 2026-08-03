@@ -1,130 +1,107 @@
-<div align="center">
 
-<!-- Animated header with SVG wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=vadim-cebanu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=crafting%20pixels%20into%20experiences&descAlignY=55&descSize=18" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%26+UI+Craftsman;React+%7C+Next.js+%7C+TypeScript+enthusiast;Turning+designs+into+living+interfaces;Obsessed+with+details+%26+animations" alt="Typing SVG" />
-</a>
+<h3 align="center">
+  🚀 Fullstack Developer & UI Craftsman
+</h3>
 
-<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React;Next.js;TypeScript;Python;Docker;Cloud;Django;DRF;Linux;&center=true&color=dd6b20&size=20&width=400&height=30" />
+</p>
 
-<!-- Profile views & social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=vadim-cebanu&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vadim-cebanu?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/vadim-cebanu)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vadim+%F0%9F%91%8B;Backend+Developer+in+training;Python+%2B+Django+%2B+DRF;" alt="Typing SVG" />
+</h3>
 
-</div>
+<h3 align="center">👤 About Me</h3>
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I'm a **Fullstack Developer** based in Germany, passionate about building modern, scalable web applications with clean architecture and great user experience.
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+- 🏢 Currently studying as a Fullstack Developer  
+- 🎯 Focus: performance optimization, UI/UX, and developer tooling  
+- 🌍 Languages: Romanian, Russian, German, English
+- 🔭 Currently working on REST APIs built with Django and Django REST Framework
+- 🧩 Comfortable across the stack — from database models to the interfaces that consume them
+- 📫 Open to backend/fullstack opportunities — feel free to reach out
 
-###  About Me
+</td>
+<td width="40%">
 
-```typescript
-const vadim = {
-  role: "Fullstack Developer",
-  location: "Germany",
-  currentFocus: "Building beautiful, performant UIs",
-  languages: ["🇷🇴 Romanian", "🇷🇺 Russian", "🇩🇪 German", "🇬🇧 English"],
-  
-  skills: {
-    frontend:  ["React", "Next.js", "TypeScript"],
-    styling:   ["Tailwind CSS", "SASS", "CSS Animations"],
-    design:    ["Figma", "UI/UX", "Design Systems"],
-    backend:   ["Node.js", "REST APIs", "Python", "DRF"],
-  },
-};
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<h3 align="center">🛠️ Tech Stack</h3>
 
-###  Stack & Tools
-
-<div align="center">
-
-**Frontend**
-
+<h3 align="center">Frontend</h3>
+<p align="center">
 <img src="assets/icons/html-logo.png" width="48" title="HTML5"/>
 <img src="assets/icons/css-logo.png" width="48" title="CSS3"/>
 <img src="assets/icons/type-logo.png" width="48" title="TypeScript"/>
 <img src="assets/icons/vue-logo.png" width="48" title="Vue.js"/>
 <img src="assets/icons/angular-logo.png" width="48" title="Angular"/>
+<img src="assets/icons/RxJs.png" width="48" title="RxJs"/>
+<img src="assets/icons/java-logo.png" width="48" title="Java"/>
+<img src="assets/icons/React.png" width="48" title="React"/>
 <img src="assets/icons/material.svg" width="48" title="Material Design"/>
 <img src="assets/icons/figma.svg" width="48" title="Figma"/>
+</p>
 
-
-
-<br/><br/>
-
-**Backend & Tools**
-
-<img src="assets/icons/java-logo.png" width="48" title="Java"/>
+<h3 align="center">Backend</h3>
+<p align="center">
 <img src="assets/icons/python-logo.png" width="48" title="Python"/>
-<img src="assets/icons/firebase-logo.png" width="48" title="Firebase"/>
-<img src="assets/icons/git-logo.png" width="48" title="Git"/>
+<img src="assets/icons/Django.png" width="48" title="Django"/>
+<img src="assets/icons/DRF.png" width="48" title="Django REST Framework"/>
+<img src="assets/icons/Flask.png" width="48" title="Flask"/>
 <img src="assets/icons/api-logo.png" width="48" title="REST API"/>
-<img src="assets/icons/scrum-logo.png" width="48" title="Scrum"/>
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+<img src="assets/icons/PostgreSQL.png" width="48" title="PostgreSQL"/>
+<img src="assets/icons/SQL.png" width="48" title="SQL"/>
+<img src="assets/icons/Redis.png" width="48" title="Redis"/>
+<img src="assets/icons/firebase-logo.png" width="48" title="Firebase"/>
 <img src="assets/icons/supabase.svg" width="48" title="Supabase"/>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+<img src="assets/icons/git-logo.png" width="48" title="Git"/>
+<img src="assets/icons/Docker.png" width="48" title="Docker"/>
+<img src="assets/icons/Linux.png" width="48" title="Linux"/>
+<img src="assets/icons/Shell-Scripting.png" width="48" title="Shell Scripting"/>
+<img src="assets/icons/Cloud.png" width="48" title="Cloud"/>
+<img src="assets/icons/Heroku.png" width="48" title="Heroku"/>
+<img src="assets/icons/scrum-logo.png" width="48" title="Scrum"/>
+<img src="assets/icons/vscode.svg" width="48" title="VS Code"/>
+</p>
+
+<h3 align="center">📊 GitHub Activity</h3>
 
 
-</div>
-
----
-
-###  GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-cebanu&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
-</div>
-
----
-
-###  Favorite Quote
-
-<div align="center">
-
-> *"Design is not just what it looks like and feels like.*
-> *Design is how it works."*
-> — **Steve Jobs**
-
-</div>
-
----
-
-
-
-###  Contribution Snake
-
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/vadim-cebanu/vadim-cebanu/output/github-snake.svg" />
   </picture>
-</div>
+</p>
 
----
+<h3 align="center">📫 Get in Touch</h3>
 
-### Find Me At
+<p align="center">
+💼 <a href="https://linkedin.com/in/cebanu-vadim">LinkedIn</a> &nbsp;•&nbsp;
+🌐 <a href="https://vadimcebanu.dev">Portfolio</a> &nbsp;•&nbsp;
+📧 <a href="mailto:info@vadimcebanu.dev">info@vadimcebanu.dev</a>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cebanu-vadim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://vadimcebanu.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vadimcebanu.dev)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-
-</div>
+<p align="center">
+  <i>“The best error message is the one that never shows up.”</i> — Thomas Fuchs
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
